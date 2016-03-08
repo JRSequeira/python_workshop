@@ -8,6 +8,11 @@ dic_lst = [{"animal": "dog", "street_cred": 5 }, {"animal": "cat", "street_cred"
 add_lst = ["fish", "lepercoon", "shark"]
 
 
+#Duck Typing Example
+def calc(a,b,c):
+	return (a+b)*c
+
+
 #Mutable and Unmutable
 def func_str(str):
 	str += "add"
