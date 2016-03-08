@@ -7,6 +7,9 @@ dic_lst = [{"animal": "dog", "street_cred": 5 }, {"animal": "cat", "street_cred"
 
 add_lst = ["fish", "lepercoon", "shark"]
 
+desc_lst = ["jelly", "irish", "white"]
+
+winnings = [400, 320, -230, 150, 600]
 
 #Duck Typing Example
 def calc(a,b,c):
